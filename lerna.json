@@ -1,0 +1,15 @@
+
+{
+  "npmClient":"yarn",
+  "useWorkspaces":true,
+  "commond":{
+    "publish":{
+      "conventionalCommits":true
+    },
+    "version":{
+      "allowBranch":"main"
+    }
+  },
+  "useNx": false,
+  "version": "0.0.0"
+}
