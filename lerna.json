@@ -6,10 +6,13 @@
       "conventionalCommits": true
     },
     "version": {
-      "allowBranch": ["main","02-lerna-with-yarn"],
+      "allowBranch": [
+        "main",
+        "02-lerna-with-yarn"
+      ],
       "conventionalCommits": true
     }
   },
   "useNx": false,
-  "version": "0.0.0"
+  "version": "0.1.0"
 }
