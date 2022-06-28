@@ -2,12 +2,13 @@
 {
   "npmClient":"yarn",
   "useWorkspaces":true,
-  "commond":{
+  "command":{
     "publish":{
       "conventionalCommits":true
     },
     "version":{
-      "allowBranch":"main"
+      "allowBranch":["main","02-lerna-with-yarn"],
+      "conventionalCommits":true
     }
   },
   "useNx": false,

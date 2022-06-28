@@ -1,12 +1,12 @@
 {
   "name": "@simple-mono-repo/service-b",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
     "dotenv": "^16.0.1",
-    "@simple-mono-repo/service-a": "^1.0.0"
+    "@simple-mono-repo/service-a": "^0.0.0"
   },
   "scripts": {
     "log": "console.log('service-b')"
