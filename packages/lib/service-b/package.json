@@ -1,0 +1,18 @@
+{
+  "name": "@simple-mono-repo/service-b",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@simple-mono-repo/service-a": "^0.1.0",
+    "chalk": "^4.0.0",
+    "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "log": "console.log('service-b')"
+  }
+}
