@@ -6,3 +6,5 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 # 0.1.0 (2022-06-28)
 
 **Note:** Version bump only for package @simple-mono-repo/service-a
+
+## force bumpversion in order to publish service-a to npm due to service-a on npm was deleted.
